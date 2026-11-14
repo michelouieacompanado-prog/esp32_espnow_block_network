@@ -33,8 +33,8 @@ are the labels sent by the other boards. The count excludes my own board.
 
 ## My Serial Monitor screenshot
 
-![My board's Serial Monitor results](alawi_rabbah.png)
+![My board's Serial Monitor results](alawi_serialmonitor.png)
 
 ## My screen recording
 
-[Watch my 30-second Serial Monitor recording](alawi_rabbah.mp4)
+[Watch my 30-second Serial Monitor recording](alawi_serialmonitor.mp4)
