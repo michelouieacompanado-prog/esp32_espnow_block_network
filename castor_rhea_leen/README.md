@@ -1,6 +1,6 @@
 # ESP-NOW Results
 
-| Item | Result |
+| Item |Result |
 | :--- | :--- |
 | Name (lastname_firstname) | castor_rhea_leen |
 | Board | ESP32-WROOM-32 |
