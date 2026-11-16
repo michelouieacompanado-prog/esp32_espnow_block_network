@@ -38,3 +38,7 @@ are the labels sent by the other boards. The count excludes my own board.
 ## My screen recording
 
 [Watch my 30-second Serial Monitor recording](acompanado_serialmonitor.mp4)
+
+https://github.com/user-attachments/assets/b095d867-28ad-4661-8052-ff32a5e660d2
+
+
